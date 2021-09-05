@@ -1,6 +1,6 @@
-# khw11044's Github Pages
+# YM의 공부노트
 
-<https://khw11044.github.io>
+<https://Solight96.github.io>
 
 ---
 Powered By [Hydejack-Starter-Kit](https://github.com/hydecorp/hydejack-starter-kit)
