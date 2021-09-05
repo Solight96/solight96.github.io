@@ -20,7 +20,7 @@ redirect_from:
 
 <center>100, Inha-ro, Michuhol-gu, Incheon, Republic of Korea</center>
 
-## Personal Data
+## Profile
 ---
 > 1996.09.19 대한민국,인천광역시,서구 출생
 
@@ -59,7 +59,7 @@ redirect_from:
 
 - 우수상 (학부생 부문)
 
-## Skills and Certification
+## Skills
 ---
 -Language : Python, C/C++
 
