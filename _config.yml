@@ -28,7 +28,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               "
-    공대 공부가 너무 힘들게 느껴지는 평범하디 평범한 대학생입니다.
+    공대 공부를 열심히 하는 평범한 대학생입니다.
 		"
 
 # A list of keywords for your blog
@@ -134,6 +134,8 @@ accent_color:          rgb(79,177,186)
 # Defaults to `accent_color`.
 theme_color:           rgb(8,46,57)
 
+og_image:	       assets/img/logo.png
+
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
 google_fonts:          Roboto+Slab:700|Noto+Sans:400,400i,700,700i
@@ -219,7 +221,7 @@ comments:
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-disqus:                khw11044
+disqus:                solight96
 
 # Before to use utterance, You must install utterance github app.
 # Check below link for detail.
