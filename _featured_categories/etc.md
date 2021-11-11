@@ -4,7 +4,7 @@ type: category
 bigtitle: Etc
 sitemap: true
 hide_description: false
-order: 4
+order: 5
 description: >
   기타 잡담들
 ---

@@ -14,6 +14,8 @@ redirect_from:
 
 * * *
 
+<center>   </center>
+
 <center>MAJOR : Electronic Engineering</center>
 
 <center>Inha University</center>
@@ -51,6 +53,12 @@ redirect_from:
 
 ## Project
 ---
+
+* **Development of a Continuous Engagement Estimation System**
+
+ITRC 창의자율과제
+
+시선 추정과 표정 인식 기술을 이용한 연속적인 수업 집중도 추정 시스템 개발
 
 ## Awards
 ---

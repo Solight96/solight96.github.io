@@ -23,7 +23,7 @@ title:                 YM의 공부노트
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-    공부한 것을 개인적으로 정리하는 블로그
+    공부한 것들을 개인적으로 정리하는 블로그
 
 
 # A shorter description for the sidebar.
@@ -54,6 +54,8 @@ menu:
     url:               /about/
   - title:             Pratice
     url:               /practice/
+  - title:             Project
+    url:               /project/    
   - title:             Study
     url:               /study/
   - title:             Papers
