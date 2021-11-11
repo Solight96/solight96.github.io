@@ -13,8 +13,13 @@ redirect_from:
 <!--author-->
 
 * * *
-
-<center>   </center>
+<center>
+<span style=
+"font-size:170%;
+font-weight:bold">
+Yoon Min
+</span>
+</center>
 
 <center>MAJOR : Electronic Engineering</center>
 
