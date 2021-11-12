@@ -137,7 +137,7 @@ accent_color:          rgb(79,177,186)
 theme_color:           rgb(8,46,57)
 
 # Default Thumbnail Image
-og_image:	       /assets/img/logo.png
+og_image:	       "/assets/img/logo.png"
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
