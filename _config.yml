@@ -28,11 +28,11 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               "
-    공대 공부를 열심히 하는 평범한 대학생입니다.
+    인공지능 관련 공부를 열심히 하는 평범한 대학생입니다.
 		"
 
 # A list of keywords for your blog
-keywords:              [AI, computer vision, deep learning, data science]
+keywords:              [AI, computer vision, deep learning, GAN]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
