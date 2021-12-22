@@ -19,4 +19,5 @@ redirect_from:
 
 저는 **이런 분야**에 관심을 가지고 있습니다.
 
->  Machine Learning, Deep Learning, Computer Vision
+>  Machine Learning, Deep Learning, Computer Vision, 
+>  Image to Image Translation, GAN
