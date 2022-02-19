@@ -125,12 +125,7 @@ GEM
       ffi (~> 1.9)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
-    tzinfo (2.0.3)
-      concurrent-ruby (~> 1.0)
-    tzinfo-data (1.2020.4)
-      tzinfo (>= 1.0.0)
     unicode-display_width (1.7.0)
-    wdm (0.1.1)
 
 PLATFORMS
   ruby
@@ -155,8 +150,6 @@ DEPENDENCIES
   jekyll-theme-hydejack (~> 9.0)
   jekyll-titles-from-headings
   kramdown-math-katex
-  tzinfo-data
-  wdm
 
 BUNDLED WITH
-   2.2.31
+   2.3.0

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YM의 공부노트</title>
+    <description>공부한 것들을 개인적으로 정리하는 블로그
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 19 Feb 2022 16:52:41 +0900</pubDate>
+    <lastBuildDate>Sat, 19 Feb 2022 16:52:41 +0900</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>[Project] 1. 인생 첫 프로젝트…</title>
+        <description>&lt;h1 id=&quot;인생-첫-프로젝트-진행&quot;&gt;인생 첫 프로젝트 진행&lt;/h1&gt;
+
+&lt;!-- ## 제목 --&gt;
+
+&lt;p&gt;학교 수업 이외로 정말 ‘프로젝트’라고 부를만한 것을 진행하다보니 참 힘드네요…&lt;/p&gt;
+
+&lt;!-- &lt;a&gt;색깔 입히고 싶은 단어 입력&lt;/a&gt; --&gt;
+
+&lt;p&gt;&lt;!-- ![그림](그림 링크) --&gt;&lt;/p&gt;
+
+&lt;!-- [하이퍼링크 이름](하이퍼링크 주소) --&gt;
+
+&lt;!-- + &lt;kbd&gt; 이름 &lt;/kbd&gt; 설명 --&gt;
+</description>
+        <pubDate>Fri, 12 Nov 2021 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/project/2021-11-12-Project_1/</link>
+        <guid isPermaLink="true">http://localhost:4000/project/2021-11-12-Project_1/</guid>
+        
+        <category>gaze estimation</category>
+        
+        <category>Facial Expression Recognition</category>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+  </channel>
+</rss>
