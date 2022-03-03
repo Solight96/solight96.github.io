@@ -3,8 +3,8 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-url:                   "https://solight96.github.io"
-baseurl:               ""
+url:                   https://solight96.github.io
+baseurl:               
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
 # with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
@@ -33,7 +33,7 @@ tagline:               "
 		"
 
 # A list of keywords for your blog
-keywords:              [AI, computer vision, deep learning, Anomaly Detection]
+keywords:              [Deep Learning, Anomaly Detection, Adversarial Attac & Defense]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -61,20 +61,15 @@ menu:
     url:               /study/
   - title:             Papers
     url:               /papers/
-    # submenu:
-    #   - title:  title
-    #     url:      /url/
-    #   - title:  title
-    #     url:      /url/
-    #   - title:  title
-    #     url:      /url/
-    #   - title:  title
-    #     url:      /url/
-    #   - title:  title
-    #     url:      /url/
   - title:             Etc
-    url:               /etc/
+    url:               /etc/    
     # submenu:
+    #   - title:  title
+    #     url:      /url/
+    #   - title:  title
+    #     url:      /url/
+    #   - title:  title
+    #     url:      /url/
     #   - title:  title
     #     url:      /url/
     #   - title:  title
